@@ -10,3 +10,5 @@ As dependências do projeto estão no arquivo requirements.txt na raíz do proje
 Para criação do banco desse projeto é necessário rodar o script presente no documento scriptBanco presente na raiz do projeto
 
 O projeto roda a partir do arquivo app.py
+
+A documentação do swagger é apresentada na url: http://localhost:5000/apidoc/swagger
